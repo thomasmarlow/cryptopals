@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
-func main() {
-	fmt.Println("Hi.")
+func convertHexToBase64(originalValue string) (convertedValue string) {
+	return "asdf"
 }
