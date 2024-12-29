@@ -1,3 +1,3 @@
-module github.com/thomasmarlow/cryptopals/1/7
+module github.com/thomasmarlow/cryptopals/1/8
 
 go 1.23.4
